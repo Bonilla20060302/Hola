@@ -117,7 +117,7 @@ function App() {
           </div>
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
-            <h1 className="text-4xl text-white font-bold">gracias Yuli te prometo que te hare feliz y jamás te abandonare❤️!</h1>
+            <h1 className="text-4xl text-white font-bold">gracias Yuli te prometo que te hare la mujer feliz del mundo y jamás te abandonare❤️!</h1>
             <img src="https://i.pinimg.com/originals/9b/dc/c6/9bdcc6206c1d36a37149d31108c6bb41.gif" alt="" className="mx-auto" />
             <span hidden>{document.title = 'Sabia que dirias que si ❤️!'}</span>
           </div>
